@@ -44,5 +44,5 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/NMIMS-FAQ-Chatbot.git
-cd NMIMS-FAQ-Chatbot
+git clone https://github.com/your-username/NMIMS-FAQ-Chatbot.git](https://github.com/Rachit-Jain-24/NMIMS-RAG-CHATBOT
+cd RAG CHATBOT - NMIMS
