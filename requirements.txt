@@ -1,0 +1,19 @@
+streamlit
+pdf2image
+pytesseract
+pypdf
+sentence-transformers
+numpy
+scikit-learn
+python-dotenv
+langchain
+langchain-core
+langchain-text-splitters
+langchain-community
+chromadb
+huggingface-hub
+torch
+torchvision
+transformers
+streamlit
+langchain-openrouter  # <-- Add this for OpenRouter
